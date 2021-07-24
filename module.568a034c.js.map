@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/module.js"],"names":["console","log"],"mappings":";AAAA,aACAA,QAAQC,IAAI","file":"module.568a034c.js","sourceRoot":"../src","sourcesContent":["'use strict';\nconsole.log('hi');\n"]}
