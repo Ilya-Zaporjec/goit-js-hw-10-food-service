@@ -1,1 +1,0 @@
-{"version":3,"sources":["sass/layout/_header.scss"],"names":[],"mappings":"AAAA,OACE","file":"src.4339bed3.css","sourceRoot":"../src","sourcesContent":["header {\n  background-color: tomato;\n}\n"]}
